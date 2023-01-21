@@ -4,9 +4,8 @@
 
 ### If you want to explore please clone after that go terminal and git this cmd -
 
-## npm i
-
-## npm start
+### npm i
+### npm start
 
 # About
 
